@@ -1,4 +1,9 @@
 {
+  "name": "portofolio-gifaro",
+  "version": "1.0.0",
+  "engines": {
+    "node": "22.x"
+  },
   "dependencies": {
     "jspdf": "^2.5.1"
   }
